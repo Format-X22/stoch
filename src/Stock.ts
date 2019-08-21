@@ -4,4 +4,8 @@ export default class Stock {
     getCandles() {
         // TODO -
     }
+
+    getBalanceFor() {
+        // TODO -
+    }
 }
