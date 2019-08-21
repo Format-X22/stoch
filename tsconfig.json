@@ -1,3 +1,4 @@
 {
-  "quotemark": "single"
+  "quotemark": "single",
+  "targer": "es6"
 }
